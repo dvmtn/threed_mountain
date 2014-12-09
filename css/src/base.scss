@@ -1,1 +1,18 @@
-
+*{
+  margin:0;
+  padding:0;
+}
+html{
+  font-family:sans-serif;
+  background:green;  
+}
+body{
+  overflow: hidden;
+}
+#example{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
